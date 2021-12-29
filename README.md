@@ -1,2 +1,2 @@
 # I-restaurant
-Tugas Impal
+Impal
